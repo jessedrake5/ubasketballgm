@@ -205,15 +205,15 @@
 },
 {
 "city": "Austin",
-"mascot": "Thunder",
+"mascot": "Storm",
 "short": "AUS",
 "homeText": "FFFFFF",
-"homeMain": "007AC1",
-"homeSecondary": "EF3B24",
-"awayText": "007AC1",
+"homeMain": "00CBFF",
+"homeSecondary": "C4C4C4",
+"awayText": "00CBFF",
 "awayMain": "FFFFFF",
 "awaySecondary": "EF3B24",
-"logoURL": "https://dl.dropbox.com/s/g2x91ge1t7gjrpn/thunder.png"
+"logoURL": "https://logodix.com/logo/310007.png"
 },
 {
 "city": "Portland",
@@ -292,12 +292,12 @@
 "mascot": "Kings",
 "short": "SEA",
 "homeText": "FFFFFF",
-"homeMain": "5A2D81",
-"homeSecondary": "63727A",
-"awayText": "5A2D81",
+"homeMain": "568A63",
+"homeSecondary": "F0E123",
+"awayText": "568A63",
 "awayMain": "FFFFFF",
 "awaySecondary": "63727A",
-"logoURL": "https://dl.dropbox.com/s/f1uamckcbm9fn0z/kings.png"
+"logoURL": "https://hiphopsince1987.com/wp-content/uploads/2013/01/seattle.png"
 },
 {
 "city": "Dallas",
@@ -337,15 +337,15 @@
 },
 {
 "city": "Kansas City",
-"mascot": "Bison",
+"mascot": "Kangaroos",
 "short": "KC",
 "homeText": "FFFFFF",
-"homeMain": "0C2340",
-"homeSecondary": "C8102E",
-"awayText": "0C2340",
+"homeMain": "552980",
+"homeSecondary": "DDED31",
+"awayText": "552980",
 "awayMain": "FFFFFF",
 "awaySecondary": "C8102E",
-"logoURL": "https://cdn.iconscout.com/icon/premium/png-256-thumb/bison-1410422-1193730.png"
+"logoURL": "https://cdn.freelogovectors.net/wp-content/uploads/2020/10/kansas-city-roos-logo.png"
 },
 {
 "city": "San Antonio",
